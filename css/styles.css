@@ -1,0 +1,17 @@
+.sidebar{
+    float:left;
+    color:blue;
+    width:50%;    
+}
+.column{
+    float:right;
+    color:green;
+}
+img{
+    float:center;
+    width:50%;
+    lenght:100%;
+}
+.intro{
+    color:red;
+}
