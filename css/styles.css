@@ -1,17 +1,6 @@
-.sidebar{
-    float:left;
-    color:blue;
-    width:50%;    
-}
-.column{
-    float:right;
-    color:green;
-}
-img{
-    float:center;
-    width:50%;
-    lenght:100%;
-}
-.intro{
-    color:red;
+.test-box {
+  border: 2px solid red;
+  padding: 30px;
+  margin:100px;
+  background-color: yellow;
 }
